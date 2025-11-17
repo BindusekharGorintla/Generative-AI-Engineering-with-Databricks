@@ -1,0 +1,16 @@
+LAB - Create Managed Vector Search Index
+The objective of this lab is to demonstrate the process of creating a managed Vector Search index for retrieval-augmented generation (RAG) applications. This involves configuring Databricks Vector Search to ingest data from a Delta table containing text embeddings and metadata.
+
+Lab Outline:
+
+In this lab, you will need to complete the following tasks;
+
+Task 1 : Create a Vector Search endpoint to serve the index.
+
+Task 2 : Connect Delta table with Vector Search endpoint
+
+Task 3 : Test the Vector Search index
+
+Task 4 : Re-rank search results
+
+📝 Your task: Complete the <FILL_IN> sections in the code blocks and follow the other steps as instructed.

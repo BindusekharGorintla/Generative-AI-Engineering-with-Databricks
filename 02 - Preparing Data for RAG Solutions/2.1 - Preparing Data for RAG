@@ -1,5 +1,6 @@
 Preparing Data for RAG
-In this demo, we will focus on ingesting PDF documents as a source for our retrieval process. First, we will ingest the PDF files and process them using self-managed vector search embeddings.
+In this demo, we will focus on ingesting PDF documents as a source for our retrieval process. First, we will ingest the 
+PDF files and process them using self-managed vector search embeddings.
 
 Learning Objectives:
 

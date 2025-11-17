@@ -1,0 +1,31 @@
+Generative AI Solution Development
+This course is designed to introduce participants to contextual generative AI solutions using the retrieval-augmented generation (RAG) method. Firstly, participants will be introduced to the RAG architecture and the significance of contextual information using Mosaic AI Playground. Next, the course will demonstrate how to prepare data for generative AI solutions and connect this process with building an RAG architecture. Finally, participants will explore concepts related to context embedding, vectors, vector databases, and the utilization of the Mosaic AI Vector Search product.
+
+Prerequisites
+The content was developed for participants with these skills/knowledge/abilities:
+
+Familiarity with natural language processing concepts
+Familiarity with prompt engineering/prompt engineering best practices
+Familiarity with the Databricks Data Intelligence Platform
+Course Agenda
+The following modules are part of the Generative AI Solution Development course by Databricks Academy.
+
+#	Module Name	Lesson Name
+1	From Prompt Engineering to RAG	• Lecture: Prompt Engineering Primer
+• Lecture: Introduction to RAG
+• Demo: In Context Learning with AI Playground
+• Lab: In Context Learning with AI Playground
+2	Preparing Data for RAG Solutions	• Lecture: Preparing Data for RAG Solutions
+• Demo: Preparing Data for RAG
+• Lab: Preparing Data for RAG
+3	Mosaic AI Vector Search	• Lecture: Introduction to Vector Stores
+• Lecture: Introduction to Mosaic AI Vector Search
+• Demo: Create Self-managed Vector Search Index
+• Lab: Create Managed Vector Search Index
+4	Assembling and Evaluating a RAG Application	• Lecture: Assembling a RAG Application
+• Demo: Assembling and Registering a RAG Application
+• Lab: Assembling a RAG Application
+Requirements
+Please review the following requirements before starting the lesson:
+
+Use Databricks Runtime version: 17.3.x-cpu-ml-scala2.13 for running all demo and lab notebooks.

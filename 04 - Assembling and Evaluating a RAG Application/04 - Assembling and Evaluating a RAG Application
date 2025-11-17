@@ -1,0 +1,13 @@
+Assembling and Registering a RAG Application
+In the previous demo, we created a Vector Search Index. To build a complete RAG application, it is time to connect all the components that you have learned so far and evaluate the performance of the RAG.
+
+After evaluating the performance of the RAG pipeline, we will create and deploy a new Model Serving Endpoint to perform RAG.
+
+Learning Objectives:
+
+By the end of this demo, you will be able to:
+
+Describe embeddings, vector databases, and search/retrieval as key components of implementing performant RAG applications.
+Assemble a RAG pipeline by combining various components.
+Build a RAG evaluation pipeline with MLflow evaluation functions.
+Register a RAG pipeline to the Model Registry.

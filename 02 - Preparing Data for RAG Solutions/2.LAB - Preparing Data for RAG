@@ -1,0 +1,16 @@
+Lab: Preparing Data for RAG
+The objective of this lab is to demonstrate the process of ingesting and processing documents for a Retrieval-Augmented Generation (RAG) application. This involves extracting text from PDF documents, computing embeddings using a foundation model, and storing the embeddings in a Delta table.
+
+Lab Outline:
+
+In this lab, you will need to complete the following tasks:
+
+Task 1 : Read the PDF files and load them into a DataFrame.
+
+Task 2 : Extract the text content from the PDFs and split it into manageable chunks.
+
+Task 3 : Compute embeddings for each text chunk using a foundation model endpoint.
+
+Task 4 : Create a Delta table to store the computed embeddings.
+
+📝 Your task: Complete the <FILL_IN> sections in the code blocks and follow the other steps as instructed.

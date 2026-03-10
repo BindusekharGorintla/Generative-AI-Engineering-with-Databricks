@@ -1,0 +1,12 @@
+In the left sidebar, click Catalog to open Catalog Explorer.
+Find and select your Delta table.
+Click Create (top right) and choose Vector search index.
+In the dialog, configure:
+Name: Enter a three-level name (<catalog>.<schema>.<name>). Select catalog and schema from dropdown and enter name into the textbox.
+Primary key: Select the unique ID column.
+Columns to sync: (Standard endpoints only) Choose columns to include, or leave blank to sync all.
+Embedding source: Choose to compute embeddings (select text column and model) or use an existing embedding column.
+Sync computed embeddings: Toggle to save generated embeddings to a table.
+Vector search endpoint: Select your endpoint.
+Sync mode: Choose Continuous (auto sync) or Triggered (manual sync). Storage-optimized endpoints support only Triggered.
+Click Create and monitor index creation progress.

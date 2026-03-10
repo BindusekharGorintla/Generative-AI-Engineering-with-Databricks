@@ -1,0 +1,4 @@
+llm_endpoint_name: databricks-gpt-oss-120b
+vector_search:
+  index_name: dbacademy.labuser13859245_1773122678.docs_chunked_index
+  num_results: 3
